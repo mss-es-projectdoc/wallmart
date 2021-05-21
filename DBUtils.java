@@ -1,2 +1,2 @@
 Hello guys 
-all git commends are very important
+All git commends are very important
